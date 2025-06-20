@@ -15,6 +15,7 @@ Training time: ~23 seconds
 
 Accuracy: ~97.5%
 
+
 With PCA:
 
 Training time: 30.061 seconds
