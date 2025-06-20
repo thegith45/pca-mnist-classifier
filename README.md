@@ -11,14 +11,14 @@ Results
 
 Original:
 
-Training time: ~23 seconds
+Training time: ~7 seconds
 
 Accuracy: ~97.5%
 
 
 With PCA:
 
-Training time: 30.061 seconds
+Training time: ~22 seconds
 
 Accuracy: 94.45%
 
